@@ -1,0 +1,7 @@
+Tech Challenge - Fase 4: Deep Learning e IA (LSTM Stock Predictor)
+
+Repositorio GitHub: https://github.com/SheylaSilvana/tech-challenge-petr4-lstm
+
+Link da API em producao: https://tech-challenge-petr4-lstm.onrender.com (Swagger em /docs)
+
+Video demonstrativo: https://drive.google.com/file/d/1BQs6EAF0h_npc9E7QoYEfdPbL411BxaB/view?usp=sharing

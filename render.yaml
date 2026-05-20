@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: lstm-stock-predictor
+    runtime: docker
+    plan: free
+    region: oregon
+    healthCheckPath: /api/v1/health
+    envVars:
+      - key: TICKER
+        value: PETR4.SA
+      - key: LOG_LEVEL
+        value: INFO
+      - key: ENABLE_METRICS
+        value: "true"
+      - key: PORT
+        value: "8000"
